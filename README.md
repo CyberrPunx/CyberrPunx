@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm a student, currently doing a course to learn more about coding and programming, i am still new in the field, but dedicated and focused on learning new things and improving my skills :)
 
 <!--
 **CyberrPunx/CyberrPunx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
